@@ -42,3 +42,26 @@
 | 16. Is perfect | [SOON](./) |
 | 17. Sibling | [SOON](./) |
 | 18. Uncle | [SOON](./) |
+| 19. Lowest common ancestor | [SOON](./) |
+| 20. Level-order traversal | [SOON](./) |
+| 21. Is complete | [SOON](./) |
+| 22. Rotate left | [SOON](./) |
+| 23. Rotate right | [SOON](./) |
+| 24. Is BST | [SOON](./) |
+| 25. BST - Insert | [SOON](./) |
+| 26. BST - Array to BST | [SOON](./) |
+| 27. BST - Search | [SOON](./) |
+| 28. BST - Remove | [SOON](./) |
+| 29. Big O #BST | [SOON](./) |
+| 30. Is AVL | [SOON](./) |
+| 31. AVL - Insert | [SOON](./) |
+| 32. AVL - Array to AVL | [SOON](./) |
+| 33. AVL - Remove | [SOON](./) |
+| 34. AVL - From sorted array | [SOON](./) |
+| 35. Big O #AVL Tree | [SOON](./) |
+| 36. Is Binary heap | [SOON](./) |
+| 37. Heap - Insert | [SOON](./) |
+| 38. Heap - Array to Binary Heap | [SOON](./) |
+| 39. Heap - Extract | [SOON](./) |
+| 40. Heap - Sort | [SOON](./) |
+| 41. Big O #Binary Heap | [SOON](./) |
